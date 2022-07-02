@@ -1,5 +1,7 @@
 # Simple React UI
 
+![UI](2022-07-02.png)
+
 Quick start:
 
 ```
